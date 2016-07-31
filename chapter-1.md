@@ -1,4 +1,6 @@
 
+## Chapter 1
+
 ### Intermission: Equivalence Exercises
 
 1. 𝜆𝑥𝑦.𝑥𝑧 - Answer: b) 𝜆𝑚𝑛.𝑚𝑧
